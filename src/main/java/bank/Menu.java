@@ -71,6 +71,10 @@ public class Menu {
           System.out.println("Thank you for banking");
           break;
         }
+        case 9:{
+          System.out.println("Thank you for banking with us. Have a nice day!");
+          selection = 9;
+          break;
       }
     }
   }
